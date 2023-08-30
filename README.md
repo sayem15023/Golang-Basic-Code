@@ -1,1 +1,1 @@
-# Golang-Basic-Code
+Welcome to the Basic Go Programming GitHub repository! This repository is designed to provide beginners with a solid foundation in programming using the Go programming language (Golang). Whether you're new to programming or coming from another language, this repository will guide you through the essentials of Go programming.
